@@ -3,7 +3,6 @@
 </p>
 
 # VueJs-SpringBoot
-System Analysis and Design 62/1
 
 # Backend RUN
 ```
